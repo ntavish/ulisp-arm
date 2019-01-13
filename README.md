@@ -6,7 +6,7 @@ http://www.ulisp.com/
 
 # Description
 
-This is a port of ulisp running on Electronut Labs Blip board and uses Zephyr.
+This is a port of ulisp running on Electronut Labs Blip board and uses Zephyr. Documentation for Blip and Zephyr is available [here](https://docs.zephyrproject.org/latest/boards/arm/nrf52840_blip/doc/nrf52840_blip.html).
 
 Steps to build and flash:
 
